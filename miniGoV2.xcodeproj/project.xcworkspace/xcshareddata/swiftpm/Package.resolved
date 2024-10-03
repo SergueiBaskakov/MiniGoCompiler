@@ -1,0 +1,24 @@
+{
+  "originHash" : "5870be0939760b76e628901c38b755f4cc12b522a4f95704c2fb6e03d79c158c",
+  "pins" : [
+    {
+      "identity" : "swilex",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yassram/SwiLex.git",
+      "state" : {
+        "revision" : "3649d3326f964f39ffae1e1e5fe81001ecdaea20",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiparse",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yassram/SwiParse.git",
+      "state" : {
+        "revision" : "1e5128c7fbeee963434d9c1bc13dcb6e52b801dd",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
